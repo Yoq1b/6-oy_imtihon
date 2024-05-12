@@ -1,0 +1,132 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTmvoVkIuSxpOaDe3CRgYiHJgTiVuudI5kKE3qH3Bnz4RWnTo5BhwoUMjK2E0JmFHsIrs&usqp=CAU",
+      "name": "Spicy seasoned seafood noodles",
+      "price": 2.29,
+      "sale": 20,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 2,
+      "image": "https://i2.wp.com/www.oo-foodielicious.com/wp-content/uploads/2019/12/Supergreek-Raffles-City-Review-2.jpg",
+      "name": "Salted Pasta with mushroom sauce",
+      "price": 2.69,
+      "sale": 11,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 3,
+      "image": "https://i0.wp.com/www.oo-foodielicious.com/wp-content/uploads/2019/12/Supergreek-Raffles-City-Review-3.jpg",
+      "name": "Beef dumpling in hot and sour soup",
+      "price": 2.99,
+      "sale": 16,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 4,
+      "image": "https://thefoodquotient.ca/wp-content/uploads/2022/10/Protein-bowl-with-Chicken-logo-scaled-1-300x300.jpeg",
+      "name": "Healthy noodle with spinach leaf",
+      "price": 3.29,
+      "sale": 22,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 5,
+      "image": "https://paleomg.com/wp-content/uploads/2020/07/EN0A0174-2-750x750-1.jpg",
+      "name": "Hot spicy fried rice with omelet",
+      "price": 3.49,
+      "sale": 13,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 6,
+      "image": "https://assets.epicurious.com/photos/58efc4b2bf5d820f40d36f21/1:1/w_2560%2Cc_limit/04122017-buddhabowls-recipe.jpg",
+      "name": "Spicy instant noodle with special omelette",
+      "price": 3.59,
+      "sale": 17,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 7,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTmvoVkIuSxpOaDe3CRgYiHJgTiVuudI5kKE3qH3Bnz4RWnTo5BhwoUMjK2E0JmFHsIrs&usqp=CAU",
+      "name": "Spicy seasoned seafood noodles",
+      "price": 3.49,
+      "sale": 25.0,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 8,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQnCOdndaLmpMiTAxj8v6Vglk6ovJpI0UgngtlIhyNTDIJMKf_N3HnEYBOpPt0Mm48vUE&usqp=CAU",
+      "name": "Hot spicy fried rice with omelet",
+      "price": 4.19,
+      "sale": 85.0,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 9,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBdij4ccpDd03Amtb7L8_J_SVwnz2HXul7XQ&s",
+      "name": "Spicy seasoned seafood noodles",
+      "price": 3.59,
+      "sale": 25.0,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 10,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYohyLaA-n1dpHcIzhAdJnKFPLYI21svifAc0YOO13nQ&s",
+      "name": "Spicy seasoned seafood noodles",
+      "price": 4.19,
+      "sale": 20.0,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 11,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY0KtK4doREA3BCnZ1CkeYD28aem-2OLECWDABYqlJhClZ-h8omiALy1AuT_FPXvF55n8&usqp=CAU",
+      "name": "Hot spicy fried rice with omelet",
+      "price": 4.29,
+      "sale": 11.0,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 12,
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/newscms/2023_22/2000565/230601-wtctw-bd-1x1-1.jpg",
+      "name": "Spicy seasoned seafood noodles",
+      "price": 4.39,
+      "sale": 22.0,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 13,
+      "image": "https://fedandfit.com/wp-content/uploads/2021/08/210817_Lundberg-Brown-Rice-3-Ways-08-378x378.jpg",
+      "name": "Spicy seasoned seafood noodles",
+      "price": 3.29,
+      "sale": 16.0,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 14,
+      "image": "https://www.nourishnutritionblog.com/wp-content/uploads/2023/05/grain-bowl-square-500x500.jpg",
+      "name": "Spicy seasoned seafood noodles",
+      "price": 5.49,
+      "sale": 17.0,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 15,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTmvoVkIuSxpOaDe3CRgYiHJgTiVuudI5kKE3qH3Bnz4RWnTo5BhwoUMjK2E0JmFHsIrs&usqp=CAU",
+      "name": "Spicy seasoned seafood noodles",
+      "price": 6.19,
+      "sale": 15.0,
+      "caterogy": "Hot Dishes"
+    },
+    {
+      "id": 16,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTmvoVkIuSxpOaDe3CRgYiHJgTiVuudI5kKE3qH3Bnz4RWnTo5BhwoUMjK2E0JmFHsIrs&usqp=CAU",
+      "name": "Spicy seasoned seafood noodles",
+      "price": 5.19,
+      "sale": 15.0,
+      "caterogy": "Hot Dishes"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+a.active {
+  .bbb {
+    border-radius: 10px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    background: #252836;
+    border: none;
+  }
+  .aaa {
+    background-color: #ea7c69;
+    border-radius: 9px;
+    box-shadow: 0px 8px 24px 0px #ea7c6952;
+  }
+  .salom {
+    color: white;
+  }
+}
+.react-icons:active {
+  color: white;
+}
+
+h1 {
+  font-family: 'Barlow', sans-serif !important;
+}
+p {
+  font-family: 'Barlow', sans-serif !important;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+body{
+  background: #252836;
+}
+li:hover{
+cursor: pointer;
+}
+input[type="date"]::-webkit-calendar-picker-indicator {
+  display: none;
+  
+}
+.payment-container {
+  transition: transform 0.5s ease-in-out;
+  transform: translateX(100%);
+}
+
+.payment-container.visible {
+  transform: translateX(0%);
+}
